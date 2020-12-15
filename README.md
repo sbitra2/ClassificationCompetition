@@ -30,5 +30,11 @@ twitter_1,SARCASM
 twitter_2,NOT_SARCASM  
 ...
 
+##############################################################
 
+Documentation available in **Documentation.pdf** https://github.com/sbitra2/ClassificationCompetition/blob/main/Documentation.pdf
+
+Presentation with code walkthrough and working demo, available in **Presentation.pptx** https://github.com/sbitra2/ClassificationCompetition/blob/main/Presentation.pptx
+
+Code Source Notebook: **Text_Classification_Twitter_Sarcasm_Detection.ipynb** https://github.com/sbitra2/ClassificationCompetition/blob/main/Text_Classification_Twitter_Sarcasm_Detection.ipynb 
 
